@@ -111,7 +111,7 @@
                       <li><a href="#">Lorem ipsum dolor</a></li>
                       <li><a href="#">Sed ut perspiciatis</a></li>
                       <li><a href="#">Voluptatum deleniti</a></li>
-                      <li><a href="#">At vero eos</a></li>
+                      <li><a href="#">At Vero eos</a></li>
                       <li><a href="#">Consectetur adipiscing</a></li>
                       <li><a href="#">Duis aute irure</a></li>
                       <li><a href="#">Necessitatibus saepe</a></li>
